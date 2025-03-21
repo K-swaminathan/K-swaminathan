@@ -12,7 +12,6 @@ I'm a **Pre-Final Year Computer Science Student** who speaks fluent Python and o
 - **Languages**: English, Tamil, Hindi (and fluent in Stack Overflow search queries)
 
 ## 📬 Contact Me
-- 🌐 GitHub: [K-swaminathan](https://github.com/K-swaminathan) (where my code lives rent-free)
 - 💼 LinkedIn: [Swaminathan K](https://www.linkedin.com/in/swami2004/) (come stalk my professional life)
 - 📧 Email: swaminathan2207@gmail.com (send memes and job offers!)
 
